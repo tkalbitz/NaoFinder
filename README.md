@@ -6,7 +6,7 @@ NaoFinder is an example implementation of the infocast protocol which provides
 basic information about the current robots in the network.  Infocast can be
 found here: https://github.com/tkalbitz/infocast .  
 
-NaoFinder receives infocast packages, parse them and show the robot status in a 
+NaoFinder receives infocast packages, parses them and shows the robot status in a
 QT4 GUI. It displays all information about the robot. Functionality which is not 
 implemented is the usage of the text to speech capabilities of the robot.
 
